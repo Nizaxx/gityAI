@@ -1,0 +1,2 @@
+# gityAI
+uczymy sie
